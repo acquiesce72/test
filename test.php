@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="test.css" />
   </head>
   <body>
-    <p class="">Play Play Play Play 2</p>
+    <p class="">Play Play Play Play Play 2</p>
 </body>
 </html>
 
